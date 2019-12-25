@@ -1,5 +1,6 @@
 # WebStore
-This is my first project for CodersLab programming school
+## This is my first project for CodersLab programming school
+##  Only layout of webshop
 
 ## I used to technologies such as
 ## - [x] HTML
